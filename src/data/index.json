@@ -1,0 +1,151 @@
+{
+    "skills": [
+      
+      {
+        "id": "1",
+        "src": "./img/HTML5.svg",
+        "title": "HTML5",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "2",
+        "src": "./img/CSS.svg",
+        "title": "CSS",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "3",
+        "src": "./img/JS.svg",
+        "title": "JavaScript",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "4",
+        "src": "./img/bootstarp.svg",
+        "title": "Bootstrap",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "5",
+        "src": "./img/sql.svg",
+        "title": "SQL",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+       {
+        "id": "6",
+        "src": "./img/express.svg",
+        "title": "Express",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+       },
+      {
+        "id": "7",
+        "src": "./img/React.svg",
+        "title": "React",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "8",
+        "src": "./img/NodeJs.svg",
+        "title": "Node.Js",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+     
+      {
+        "id": "9",
+        "src": "./img/MDb.svg",
+        "title": "MongoDB",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "10",
+        "src": "./img/git.svg",
+        "title": "Git",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "11",
+        "src": "./img/github.svg",
+        "title": "GitHub",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      },
+      {
+        "id": "12",
+        "src": "./img/tailwind.svg",
+        "title": "Tailwind CSS",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      }
+      
+    ],
+    "portfolio": [
+      {
+        "id": "3",
+        "src": "./img/Todo.png",
+        "title": "Todo List",
+        "description": "A simple and beautiful To-Do application built with ReactJS, Redux, and Vite. This application allows users to add, view, edit, delete, and mark tasks as done. The state is managed using Redux.",
+        "link": "https://soumyatodolist.netlify.app/"
+      },
+      {
+        "id": "2",
+        "src": "./img/edupulse.webp",
+        "title": "Edupulse",
+        "description": "A simple web app to explore, search. Find dishes by ingredients.",
+        "link": "https://makedeliciousfood.netlify.app/"
+      }
+    ],
+    "testimonial": [
+      {
+        "id": "1",
+        "count": "5",
+        "src": "./img/Khuntia.jpg",
+        "description": "Soumya’s dedication and technical proficiency were evident from the start. His clear communication and ability to deliver high-quality work under tight deadlines were outstanding. He’s a reliable and skilled developer who truly excels in his field.",
+        "author_name": "Soumya Ranjan Khuntia",
+        "author_designation": "Python Developer"
+      },
+      {
+        "id": "2",
+        "count": "5",
+        "src": "./img/Shizan.jpg",
+        "description": "Soumya's consistently delivered high-quality work and demonstrated exceptional technical skills throughout our collaboration. His proactive approach and attention to detail greatly contributed to the project’s success. A true professional who is a pleasure to work with.",
+        "author_name": "Mahomad Shizen",
+        "author_designation": "Ui/Ux Developer"
+      },
+      {
+        "id": "3",
+        "count": "5",
+        "src": "./img/Das.jpg",
+        "description": "Soumya’s commitment and technical knowledge were crucial in achieving our project goals. His innovative solutions and willingness to go the extra mile made a noticeable impact. I highly value his work ethic and problem-solving abilities.",
+        "author_name": "Soumya Das",
+        "author_designation": "Java Developer"
+      }
+    ],
+    "items": [
+      {
+        "id": 1,
+        "title": "WeatherApp",
+        "img": "./img/weather.png",
+        "desc": "Design a Weather App utilizes the Open Weather API for real-time weather updates. Users access detailed forecasts for their location or any global city.",
+        "url": "https://sjoweather.netlify.app/"
+      },
+      {
+        "id": 2,
+        "title": "QuickNote",
+        "img": "./img/Note.png",
+        "desc": " In this web app that allows users to create, organize, and manage notes efficiently.",
+        "url": "https://quicknotes43.netlify.app/"
+      },
+      {
+        "id": 3,
+        "title": "TodoList",
+        "img": "./img/Todo.png",
+        "desc": "A simple and beautiful To-Do application built with ReactJS, Redux, and Vite. This application allows users to add, view, edit, delete, and mark tasks as done. The state is managed using Redux.",
+        "url": "https://soumyatodolist.netlify.app/"
+      },
+      {
+        "id": 4,
+        "title": "Recipe Website",
+        "img": "./project/Foodrecipe.png",
+        "desc": "Discover the delightful and mouthwatering food recipes that will tantalize your taste buds and impress your guests.",
+        "url": "https://makedeliciousfood.netlify.app/"
+      }
+    ]
+  }
