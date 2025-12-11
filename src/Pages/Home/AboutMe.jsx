@@ -45,7 +45,7 @@ export default function AboutMe() {
             I’m a Front-End Developer driven by curiosity for new technologies and a commitment to creating fast, scalable, and intuitive applications.
           </motion.p>
           <motion.p className="hero--section-description" variants={variants}>
-                I earned my B.Tech in Mechanical Engineering from OCEM, BPUT, Odisha, graduating with a CGPA of 8.18. My academic journey honed my problem-solving abilities and analytical skills, providing a strong foundation for tackling complex technical challenges.          </motion.p>
+                I earned my B.Tech in Mechanical Engineering from OCEM, BPUT, Odisha, graduating with a CGPA of 8.18. My academic journey honed my problem-solving abilities and analytical skills, providing a strong foundation for tackling complex technical challenges.</motion.p>
         </motion.div>
       </motion.div>
     </motion.section>

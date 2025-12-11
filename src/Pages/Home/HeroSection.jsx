@@ -2,7 +2,7 @@ import { useTypewriter, Cursor } from "react-simple-typewriter";
 import { motion } from "framer-motion";
 export default function HeroSection() {
   let [text] = useTypewriter({
-    words: ["Frontend Developer", "UI Designer", "Ux Designer"],
+    words: ["Frontend Developer", "SQL database/NoSQL", "Web Development","ReactJs","NodeJs"],
     loop: {},
     typeSpeed: 100,
     deleteSpeed: 40,
@@ -50,7 +50,7 @@ export default function HeroSection() {
 
       <div className="hero--section--img">
         {/* <img src="./img/hero_img.png" alt="logo" /> */}
-        <img src="./img/saquib.jpg" alt="My Pic" className="MyImg" />
+        <img src="./img/prof_saquib.jpg" alt="My Pic" className="MyImg" />
       </div>
     </section>
   );
